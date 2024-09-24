@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49444466256",
+    "project_id": "push-app-46634",
+    "storage_bucket": "push-app-46634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49444466256:android:5e6d8fc56996b9f155eb55",
+        "android_client_info": {
+          "package_name": "com.py.valdezgricelda.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7A7OL3zc-86fol9ElA2mbQRTMJuSZqTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
